@@ -1,0 +1,13 @@
+{
+  "name": "nodejsdemo",
+  "version": "1.0.0",
+  "main": "fsdemo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
